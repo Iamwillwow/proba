@@ -4,11 +4,15 @@ public class Main {
 
         long pipkaMaxima = 2;
 
-        System.out.println("Pipka Maxima = " + pipkaMaxima + "cm");
 
 
+       long kek = 1;
+       String  surprise  = "mthfck";
+       surprise  = surprise  + "lolos";
 
+       kek = -12;
 
+        System.out.println("Pipka Maxima = " + pipkaMaxima + "cm"  + surprise);
 
 
     }
